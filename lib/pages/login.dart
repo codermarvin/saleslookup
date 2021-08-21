@@ -14,7 +14,7 @@ class _LoginState extends State<Login> {
 
   @override
   void initState() {
-    _username.text = 'hiemmarvin@gmail.com';
+    _username.text = '';
     _password.text = '';
     super.initState();
   }
